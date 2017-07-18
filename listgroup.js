@@ -186,6 +186,6 @@
     };
 
     $(function () {
-        $('.list-group').listgroup();
+        $('.list-group-js').listgroup();
     });
 }(jQuery);
